@@ -1,0 +1,2 @@
+import tensotflow as tf
+print(tf._version_)
